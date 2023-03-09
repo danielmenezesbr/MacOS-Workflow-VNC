@@ -1,3 +1,4 @@
+set -exuo pipefail
 #configure.sh VNC_USER_PASSWORD VNC_PASSWORD NGROK_AUTH_TOKEN
 
 #disable spotlight indexing
